@@ -1,7 +1,7 @@
 ## Hey, I am Shivani 👋
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=28&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+%5BYour+Name%5D;Laravel+Trainee+%7C+Backend+Developer;Curious+Learner+%7C+Always+Exploring+Backend+Logic;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=28&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+%5BShivani+Chauhan%5D;Laravel+Trainee+%7C+Backend+Developer;Curious+Learner+%7C+Always+Exploring+Backend+Logic;Welcome+to+My+GitHub+Profile!">
 </p>
 
 ---
