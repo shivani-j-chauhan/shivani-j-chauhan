@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A8FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B,+I'm+Shivani+Chauhan;Web+Developer+%7C+Backend+Developer;Laravel+12+Developer;Always+Learning+%26+Building+%F0%9F%8C%B8">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Shivani+Chauhan;Web+Developer+%7C+Backend+Developer;Laravel+12+Developer;Always+Learning+%26+Building+%F0%9F%8C%B8">
 </p>
 
 <!-- Badges -->
@@ -16,7 +16,6 @@
 ---
 
 # 👩‍💻 About Me
-
 I'm **Shivani Chauhan**, a passionate **Web Developer** who has completed training in **Laravel 12** and is continuously improving backend development skills.  
 I love understanding how things work behind the scenes — from **database internals, backend logic, request lifecycle**, to clean and optimized workflows.
 
@@ -40,31 +39,11 @@ I love understanding how things work behind the scenes — from **database inter
 
 # 🛠️ Tech Stack & Tools
 
-### **Languages**
-- PHP  
-- JavaScript  
-- SQL  
-- Python  
-- C++  
-- C  
-
-### **Framework**
-- Laravel 12  
-
-### **Database**
-- MySQL  
-
-### **Tools**
-- Git & GitHub  
-- Composer  
-- VS Code  
-
-### **Other Skills**
-- MVC Architecture  
-- Blade Templates  
-- Routing & Middleware  
-- Authentication  
-- REST API Development  
+**Languages:** PHP, JavaScript, SQL, Python, C++, C  
+**Frameworks:** Laravel 12  
+**Database:** MySQL  
+**Tools:** Git, GitHub, Composer, VS Code  
+**Other Skills:** MVC, Blade Templates, Routing, Session Handling  
 
 ---
 
@@ -77,18 +56,10 @@ I love understanding how things work behind the scenes — from **database inter
 
 ---
 
-# 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,cpp,c,python,vscode" />
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivani-j-chauhan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivani-j-chauhan&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-j-chauhan&layout=compact&theme=tokyonight" />
 </p>
 
@@ -99,10 +70,6 @@ I love understanding how things work behind the scenes — from **database inter
 <p align="center">
   <a href="https://linkedin.com/in/shivani-j-chauhan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
