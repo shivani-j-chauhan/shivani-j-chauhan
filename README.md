@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Shivani+Chauhan;Web+Developer+%7C+Backend+Developer;Laravel+12+Developer;Always+Learning+%26+Building+%F0%9F%8C%B8">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A8FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B,+I'm+Shivani+Chauhan;Web+Developer+%7C+Backend+Developer;Laravel+12+Developer;Always+Learning+%26+Building+%F0%9F%8C%B8">
 </p>
 
 <!-- Badges -->
