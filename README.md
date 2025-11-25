@@ -1,72 +1,81 @@
-## Hey, I am Shivani 👋
-<!-- Banner / Header -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=28&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+%5BShivani+Chauhan%5D;Laravel+Trainee+%7C+Backend+Developer;Curious+Learner+%7C+Always+Exploring+Backend+Logic;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+%5BYour+Name%5D;Web+Developer+%7C+Backend+Developer;Laravel+12+Developer;Always+Learning+%26+Building+🔥">
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-PHP-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=flat-square">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Developer-success?style=flat-square">
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 **Post Graduate in Computer Engineering**  
-🎓 **Bachelor's Degree in Information Technology**  
-🌱 Laravel Trainee passionate about backend logic & workflows  
-👨‍💻 I enjoy building full-stack applications with clean and scalable backend  
-🔍 Curious about how systems work behind the scenes  
-💡 Love learning new technologies and improving everyday  
+I'm a passionate **Web Developer** who has completed training in **Laravel 12** and is continuously improving backend development skills.  
+I love understanding how things work behind the scenes — from **database internals, backend logic, request lifecycle**, to clean and optimized workflows.
 
 ---
 
-# 🛠️ Tech Stack
-
-### 🚀 Languages  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🧰 Frameworks & Tools  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+# 🚀 What I'm Working On
+- Building real-world projects using **Laravel 12**  
+- Mastering advanced **PHP & Laravel features**  
+- Working with **Authentication, Middleware, APIs, CRUD, MySQL**  
+- Developing modules like blog systems, post management, and user systems  
 
 ---
 
-# 📌 Projects
-
-### 🔹 **CRUD Applications (Laravel & PHP)**  
-✔ Learned routing, controllers, migration, Eloquent ORM  
-✔ Built create, read, update, delete modules  
-✔ Improved understanding of backend workflow  
-
-### 🔹 **Social Web App (Posts + Comments System)**  
-A dynamic app where users can:  
-- Register & Login  
-- Create posts with **image, title, and description**  
-- View and comment on others’ posts  
-- Edit / delete their own content  
-
-**Skills learned:**  
-🔸 Authentication & Authorization  
-🔸 File Uploads  
-🔸 Database Relationships  
-🔸 MVC Architecture  
-🔸 RESTful API Structure  
+# 💡 What I Love
+- Backend logic & problem-solving  
+- Clean, structured, maintainable code  
+- Turning ideas into functional applications  
+- Learning how systems work internally  
 
 ---
 
-# 🎯 What I'm Currently Learning
-- Advanced Laravel (Queues, Events, Jobs, Middleware)  
-- REST API development  
-- Clean Code & Best Backend Practices  
-- Database design & optimization  
-- System design basics  
+# 🛠️ Tech Stack & Tools
+
+### **Languages**
+- PHP • JavaScript • SQL • Python • C++ • C  
+
+### **Framework**
+- Laravel 12  
+
+### **Database**
+- MySQL  
+
+### **Tools**
+- Git • GitHub • Composer • VS Code  
+
+### **Other Skills**
+- MVC Architecture  
+- Blade Templates  
+- Routing & Middleware  
+- Authentication  
+- REST API Development  
+
+---
+
+# 🎯 Goals for This Year
+
+- Master **Advanced Laravel** concepts: Events, Queues, Jobs, Relationships, APIs  
+- Build complete full-stack applications  
+- Improve backend architecture & clean coding  
+- Contribute to open-source projects  
+- Grow as a strong backend-focused developer  
+
+---
+
+# 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,cpp,c,python,vscode" />
+</p>
 
 ---
 
@@ -79,30 +88,18 @@ A dynamic app where users can:
 
 ---
 
-# 🔗 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-# ⭐ Quote  
+# ✨ Quote
 ### _“Always curious — always learning.”_
-
-
-<!--
-**shivani-j-chauhan/shivani-j-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
