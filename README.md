@@ -59,7 +59,7 @@ I love understanding how things work behind the scenes — from **database inter
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivani-j-chauhan">
+  <a href="https://linkedin.com/in/shivani-mj-chauhan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
